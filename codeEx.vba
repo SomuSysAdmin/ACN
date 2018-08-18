@@ -8,7 +8,7 @@
 ' Author -- Somenath Sinha, NetOps, ICG.
 
 ' A Screenshot of the excel sheet that this code deals with can be found
-' at https://github.com/SomuSysAdmin/ACN/interface_su.png
+' at https://github.com/SomuSysAdmin/ACN/blob/master/interface_su.png
 
 Sub CopyCell(cell As Range)
     Dim objData As New DataObject
